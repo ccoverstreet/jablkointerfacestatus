@@ -1,3 +1,3 @@
-module interface_status
+module jablkointerfacestatus
 
 go 1.15
